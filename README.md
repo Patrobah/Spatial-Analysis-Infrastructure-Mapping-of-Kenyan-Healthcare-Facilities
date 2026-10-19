@@ -1,0 +1,2 @@
+# Spatial-Analysis-Infrastructure-Mapping-of-Kenyan-Healthcare-Facilities
+An end-to-end data engineering and geospatial analysis pipeline built entirely in **Python** using **PyCharm**. This project opens, cleans, structures, and visualizes an administrative healthcare dataset of **6,762 facilities** across Kenya, transforming raw location metadata into an interactive geographic intelligence dashboard.
